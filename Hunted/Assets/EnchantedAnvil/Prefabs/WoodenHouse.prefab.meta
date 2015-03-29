@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 893dcc804653c134a8e61ad5dde5c700
+labels:
+- Architecture
+- Building
+- House
+- Mobile
+- Neighborhood
+- Suburb
+- house
+- suburb
+- neighborhood
+- building
+- mobile
+- Prop
+- houses
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
